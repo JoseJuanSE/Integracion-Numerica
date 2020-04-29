@@ -1,11 +1,11 @@
 # Integración Numérica
 
-_Hemos reaizado una forma rápida y sencilla para resolver integrales definidas con los metodos de Simpson, a travez del lengujae C#._
+_Hemos realizado una forma rápida y sencilla para resolver integrales definidas con los metodos de Riemann, Traprecios y Simpson, a travez del lengujae C#._
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas, sientete libre de modificarlo._
 
 ### Pre-requisitos 📋
 
-_Necesitaras tener instalado Visual Studio 2019 o cualquier version de Visual Studio para poder correr el programa._
+_Necesitaras tener instalado (de preferencias) Visual Studio 2019 o cualquier version de Visual Studio para poder modificarlo._
